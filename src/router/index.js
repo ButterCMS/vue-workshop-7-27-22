@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from "vue-router";
 import HomeView from "../views/HomeView.vue";
 import BlogView from "../views/BlogView.vue";
 import ArticleView from "../views/ArticleView.vue";
+import PortfolioListView from "../views/PortfolioListView.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -11,6 +12,14 @@ const router = createRouter({
       name: "home",
       component: HomeView,
     },
+    { 
+      path: "/portfolio/",
+      name: "portfolio-list",
+      component: PortfolioListView,
+    },
+    // If we wanted, we could create another view
+    // for a portfolio detail page and pass the slug, 
+    // same as the landing page below.
     {
       path: "/landing-page/:slug",
       name: "landing-page",

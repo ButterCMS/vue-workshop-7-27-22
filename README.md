@@ -2,6 +2,13 @@
 
 # Vue.js + ButterCMS Starter Project
 
+***Note: This is an expanded version of our Vue.js starter project that adds content created during a workshop during the VueJS Forge event on July 27th, 2022.***
+
+Supplementary videos referenced during workshop: 
+- https://cdn.buttercms.com/vS7RWnRPKhxJDJLJNwwj - Setting up your portfolio page type in Butter
+- https://cdn.buttercms.com/NUzQovdwSYuLqMMUaMDb -  Adding portfolio component to landing page.
+***
+
 This Vue.js starter project fully integrates with dynamic sample content from your ButterCMS account, including main menu, pages, blog posts, categories, and tags, all with a beautiful, custom theme with already-implemented search functionality. All of the included sample content is automatically created in your account dashboard when you sign up for a free trial of ButterCMS.
 
 You can view a [live demo hosted on Vercel](http://vuejs-starter-buttercms.vercel.app/), or you can click the button below to deploy your own copy of our starter project to the provider of your choice.

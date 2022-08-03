@@ -4,6 +4,9 @@
 
 ***Note: This is an expanded version of our Vue.js starter project that adds content created during a workshop during the VueJS Forge event on July 27th, 2022.***
 
+Video of the workshop:
+- https://cdn.buttercms.com/W6FyqiWSsdlciwXsOcAB
+
 Supplementary videos referenced during workshop: 
 - https://cdn.buttercms.com/vS7RWnRPKhxJDJLJNwwj - Setting up your portfolio page type in Butter
 - https://cdn.buttercms.com/NUzQovdwSYuLqMMUaMDb -  Adding portfolio component to landing page.

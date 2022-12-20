@@ -2,7 +2,7 @@
 
 # Vue.js + ButterCMS Starter Project
 
-***Note: This is an expanded version of our Vue.js starter project that adds content created during a workshop during the VueJS Forge event on July 27th, 2022.***
+***Note: This is an expanded version of our Vue.js starter project that adds content created during a workshop during the VueJS Forge event on July 27th, 2022 and will not be maintained. To see the most up-to-date version of the Vue.Js starter, visit the main source repo at [https://buttercms.com/starters/vuejs-starter-project/](https://buttercms.com/starters/vuejs-starter-project/)***
 
 Video of the workshop:
 - https://cdn.buttercms.com/W6FyqiWSsdlciwXsOcAB
